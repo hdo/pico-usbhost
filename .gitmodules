@@ -1,0 +1,3 @@
+[submodule "tinyusb"]
+	path = libs/tinyusb
+	url = https://github.com/hdo/tinyusb
